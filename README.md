@@ -1,0 +1,2 @@
+# Vinu-Jellyfinx
+Jellyfin skin
